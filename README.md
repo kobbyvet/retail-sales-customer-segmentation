@@ -85,4 +85,4 @@ All queries saved in the `/queries` folder.
 
 ---
 
-*Created by [Your Name] | June 2026*
+*Created by Benjamin Dadzie | June 2026*
